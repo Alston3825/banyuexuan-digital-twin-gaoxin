@@ -1,0 +1,38 @@
+{
+  "source": "2026-11-20 用户图片及本机视频",
+  "watch": {
+    "reported_model": "Z10",
+    "observed_model": "ZM10",
+    "device_name": "M16",
+    "software_version_reconstructed": "1.8.2606231505",
+    "software_version_status": "滚动文本跨帧拼读，待详情确认",
+    "base_version_visible_prefix": "20260623",
+    "os": null,
+    "ble_scan_verified": false,
+    "upload_verified": false
+  },
+  "beacon": {
+    "name": "MBeacon",
+    "mac": "C3:00:00:69:FB:71",
+    "uuid": "FDA50693-A4E2-4FB1-AFCF-C6EB07647825",
+    "major": 10001,
+    "minor": 19641,
+    "connectable_display": "YES",
+    "display_distance_m": 0.83,
+    "tx_dbm": null,
+    "interval_ms": null,
+    "hardware_write_performed": false,
+    "battery_display": 100,
+    "calibration_value": -59,
+    "tx_power_ui_level": 6,
+    "interval_ui_value": 5,
+    "interval_ms_interpreted_from_manual": 500,
+    "connection_mode_ui_value": 0,
+    "readback_status": "用户详情页截图；未独立复连验证"
+  },
+  "configuration_app": {
+    "name": "BeaconSET",
+    "version": "5.5.8",
+    "role": "手机端信标配置；不是手表能力证明"
+  }
+}
