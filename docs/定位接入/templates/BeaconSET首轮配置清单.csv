@@ -1,0 +1,5 @@
+slot_id,proposed_zone,uuid_candidate,major_candidate,minor_candidate,name_candidate,interval_ms_candidate,interval_manual_input_candidate,tx_dbm_candidate,connection_mode_candidate,calibration_value_policy,password_policy,status
+BX24-001,2414,99472CDD346649E8AB9C8ADFA64F1B51,24,1,BX24-001,500,5,-12,YES,preserve,preserve,proposed_not_applied
+BX24-002,2415,99472CDD346649E8AB9C8ADFA64F1B51,24,2,BX24-002,500,5,-12,YES,preserve,preserve,proposed_not_applied
+BX24-003,nurse_station,99472CDD346649E8AB9C8ADFA64F1B51,24,3,BX24-003,500,5,-12,YES,preserve,preserve,proposed_not_applied
+BX24-004,corridor_test,99472CDD346649E8AB9C8ADFA64F1B51,24,4,BX24-004,500,5,-12,YES,preserve,preserve,proposed_not_applied
