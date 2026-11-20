@@ -9,7 +9,11 @@
     "base_version_visible_prefix": "20260623",
     "os": null,
     "ble_scan_verified": false,
-    "upload_verified": false
+    "upload_verified": false,
+    "os_user_confirmed": "Android 9",
+    "custom_apk_host_tablet_link_user_confirmed": true,
+    "phone_link": false,
+    "system_discovery_user_confirmed": true
   },
   "beacon": {
     "name": "MBeacon",
